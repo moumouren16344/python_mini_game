@@ -1,0 +1,5 @@
+# data file with pictures downloaded from the internet
+data/
+
+# others
+.DS_Store
